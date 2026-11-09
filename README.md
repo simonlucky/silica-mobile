@@ -1,4 +1,4 @@
-# SilicaMobile (kmp-sec)
+# Silica-Mobile (kmp-sec)
 
 **SilicaMobile** is an open-source, cross-platform Kotlin Multiplatform (KMP) workspace for mobile security research and application assessments targeting Android and iOS environments. It provides modular, shared Kotlin engines to audit local data storage, inspect network transport security, analyze binary metrics, and test protocol behaviors.
 
